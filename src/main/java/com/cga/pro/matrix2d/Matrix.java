@@ -1,7 +1,6 @@
 package com.cga.pro.matrix2d;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 public class Matrix {
 
